@@ -386,3 +386,11 @@ body {
   line-height: 1.5;
   color: #444444;
 }
+
+.coming-soon {
+  font-size: 100px;
+  font-family: 'Montserrat', sans-serif;
+  color: #3B425A;
+  text-align: center;
+  padding: 100px;
+}
