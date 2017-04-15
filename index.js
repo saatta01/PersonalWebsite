@@ -1,9 +1,9 @@
 
-
-document.getElementById("button").onclick = function () {
-        //location.href = "https://github.com/saatta01?tab=repositories";
-        window.open("https://github.com/saatta01?tab=repositories", "_blank");
-    };
+// 
+// document.getElementById("button").onclick = function () {
+//         //location.href = "https://github.com/saatta01?tab=repositories";
+//         window.open("https://github.com/saatta01?tab=repositories", "_blank");
+//     };
 
 $(document).ready(function($){
   $('a').click(function(){
